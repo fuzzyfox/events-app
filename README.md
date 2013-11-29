@@ -1,6 +1,8 @@
 #events-app
 Initially intended as a mobile Web app for Mozilla community events. Hopefully it will be evolve to be useful for everyone having an event.
 
+**THIS APP IS NO LONGER MAINTAINED. SEE [Firehug](https://github.com/fuzzyfox/firehug/) FOR MORE RECENT WORK IN THIS AREA**
+
 ## Mockups
 These are loose mockups of what the app could look like once complete… iconography and terminology to be determined still.
 
